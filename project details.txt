@@ -1,0 +1,1 @@
+There are soem raw data of 31 trees and height volume and girth. Prepare data cleaning, data processing, data analysis, data visualizaton and prepare a complete report on the given data.
